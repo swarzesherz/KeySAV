@@ -16,6 +16,6 @@ In the public released version, I/O for xorpad streams & blanks are encrypted wi
 OSX Interface
 =============
 
-OSX interface require Mono to run link e .Net Framework in Windows, can download from: http://www.go-mono.com/mono-downloads/download.html
+OSX interface require Mono to run like .Net Framework in Windows, can download from: http://www.go-mono.com/mono-downloads/download.html
 
 Last version is avaibale here: https://github.com/swarzesherz/KeySAV/releases
